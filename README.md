@@ -46,6 +46,10 @@ This project explores how **AI + OCR + automation** can make loan monitoring:
 ## 📂 Project Structure
 Loan-Utilization-Tracking/
 │
+
+
+
+
 ├── streamlit_ui.py # Main Streamlit dashboard
 
 
