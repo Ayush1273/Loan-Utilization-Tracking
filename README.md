@@ -47,12 +47,39 @@ This project explores how **AI + OCR + automation** can make loan monitoring:
 Loan-Utilization-Tracking/
 │
 ├── streamlit_ui.py # Main Streamlit dashboard
+
+
+
 ├── loan_classifier.py # Asset image classification logic
+
+
+
+
 ├── loan_comparator.py # Compares asset & invoice results
+
+
+
+
 ├── ocr_extractor.py # OCR text extraction from invoices
+
+
+
+
 ├── .env # Environment variables (API keys)
+
+
+
+
 ├── .gitignore # Files to ignore in GitHub
+
+
+
+
 ├── pyproject.toml # Project dependencies
+
+
+
+
 ├── README.md # Project documentation
 
 
